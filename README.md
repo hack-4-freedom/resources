@@ -8,6 +8,19 @@ This repository is **open-source and open to contributions**.
 
 ---
 
+## Resources
+
+- [AI](./ai)
+- [Bitcoin](./bitcoin)
+- [eCash](./ecash)
+- [FOSS (Free and Open Source Software)](./FOSS)
+- [Foundations](./foundations)
+- [Lightning](./lightning)
+- [Nostr](./nostr)
+- [Tooling](./tooling)
+
+---
+
 ## Why This Repo Exists
 
 Learning Bitcoin and freedom tech can feel fragmented, overwhelming, and gatekept, especially outside traditional tech hubs.
