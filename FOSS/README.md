@@ -10,3 +10,17 @@ Topics include:
 - Collaborating in distributed teams
 
 These resources help participants move from learning to becoming **confident, long-term open-source contributors**.
+
+---
+
+## Resources
+
+- **First Open Source Contributions**  
+  A hands-on guide for making your very first open-source contribution — walks newcomers through the Git/GitHub workflow step by step.  
+  https://github.com/btrust-builders/first-open-source-contributions  
+  Level: Beginner
+
+- **Open Source Code Contributions**  
+  Follow-up resource for newcomers ready to contribute code to real open-source projects, covering workflow, etiquette, and best practices.  
+  https://github.com/btrust-builders/open-source-code-contributions  
+  Level: Beginner
